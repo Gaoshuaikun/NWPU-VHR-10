@@ -7,6 +7,8 @@ https://pan.baidu.com/s/1DWibgMXGbC1V5aAuN54JUA
 
 # References
 
+Please cite the following relevant papers when publishing results that use this dataset fully or partly:
+
 1. Gong Cheng, Junwei Han, Peicheng Zhou, Lei Guo. Multi-class geospatial object detection and geographic image classification based on collection of part detectors. ISPRS Journal of Photogrammetry and Remote Sensing, 98: 119-132, 2014.
 
 2. Gong Cheng, Junwei Han. A survey on object detection in optical remote sensing images. ISPRS Journal of Photogrammetry and Remote Sensing, 117: 11-28, 2016.
