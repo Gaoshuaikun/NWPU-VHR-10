@@ -1,7 +1,5 @@
 # NWPU-VHR-10-dataset
 
-The dataset is in the branch master.
-
 The NWPU VHR-10 dataset consists of 800 images, including 10 categories of objects.
 
 # References
