@@ -3,7 +3,7 @@
 The NWPU VHR-10 dataset consists of 800 images, including 10 categories of objects.
 
 # Dataset download
-https://pan.baidu.com/s/1DWibgMXGbC1V5aAuN54JUA
+https://pan.baidu.com/share/init?surl=DWibgMXGbC1V5aAuN54JUA&pwd=1234
 
 # References
 
