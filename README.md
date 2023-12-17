@@ -13,4 +13,4 @@ Please cite the following relevant papers when publishing results that use this 
 
 2. Gong Cheng, Junwei Han. A survey on object detection in optical remote sensing images. ISPRS Journal of Photogrammetry and Remote Sensing, 117: 11-28, 2016. (http://dx.doi.org/10.1016/j.isprsjprs.2016.03.014).
 
-3. Gong Cheng, Peicheng Zhou, Junwei Han. Learning rotation-invariant convolutional neural networks for object detection in VHR optical remote sensing images. IEEE Transactions on Geoscience and Remote Sensing, 54(12): 7405-7415, 2016. (https://ieeexplore.ieee.org/document/7560644).
+3. Gong Cheng, Peicheng Zhou, Junwei Han. Learning rotation-invariant convolutional neural networks for object detection in VHR optical remote sensing images. IEEE Transactions on Geoscience and Remote Sensing, 54(12): 7405-7415, 2016. (https://dx.doi.org/10.1109/TGRS.2016.2601622).
